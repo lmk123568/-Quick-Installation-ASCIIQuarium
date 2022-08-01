@@ -1,6 +1,6 @@
 <p align="center">⛵🐍🦈🐳🐟🐠🐡🦢🦆🏰</p>
 
-## 🚀 Quick Installation ASCiiQuarium
+## 🚀 Quick installation ASCiiQuarium
 
 [ASCiiQuarium](https://robobunny.com/projects/asciiquarium/html/?page=0) is an interesting Linux command
 
@@ -17,14 +17,14 @@ Let this command be your screensaver !
 Clone this repo to local
 
 ```bash
-$ git clone https://github.com/lmk123568/Quick-Installation-ASCIIQuarium.git
+git clone https://github.com/lmk123568/Quick-Installation-ASCIIQuarium.git
 ```
 
 Go to the directory and run the script `install.sh`
 
 ```bash
-$ cd Quick-Installation-ASCIIQuarium/
-$ bash install.sh
+cd Quick-Installation-ASCIIQuarium/
+bash install.sh
 ```
 
 After successful installation, press *q* to exit
@@ -33,6 +33,12 @@ Enter `asciiquarium` to start the animation
 
 ```bash
 asciiquarium
+```
+
+### 📦**Docker support**
+
+```bash
+
 ```
 
 ### 📣**Update**
