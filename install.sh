@@ -10,6 +10,7 @@ sudo make test
 sudo make install
 
 # Installing ASCIIQuarium
+cd ..
 sudo cp asciiquarium /usr/local/bin
 sudo chmod 0755 /usr/local/bin/asciiquarium
 
