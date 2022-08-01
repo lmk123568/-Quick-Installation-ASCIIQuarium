@@ -38,7 +38,7 @@ asciiquarium
 ### 📦**Docker support**
 
 ```bash
-
+docker run -it --rm mikeliu123/asciiquarium asciiquarium
 ```
 
 ### 📣**Update**

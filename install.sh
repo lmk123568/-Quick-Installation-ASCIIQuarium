@@ -31,6 +31,3 @@ else
 	sudo cp asciiquarium /usr/local/bin
 	sudo chmod 0755 /usr/local/bin/asciiquarium
 fi
-
-# Run ASCIIQuarium
-asciiquarium
