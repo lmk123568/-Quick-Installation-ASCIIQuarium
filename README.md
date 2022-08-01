@@ -8,7 +8,7 @@ Enjoy the mysteries of the sea from the safety of your own terminal 🥰
 
 > Most Ubuntu systems are currently supported, such as Ubuntu 18/20/22
 
-<img src="test.png" alt="ascii-quarium" style="zoom: 80%;" />
+<img src="test.gif" alt="ascii-quarium" style="zoom:80%;" />
 
 Let this command be your screensaver !
 
@@ -27,8 +27,6 @@ cd Quick-Installation-ASCIIQuarium/
 bash install.sh
 ```
 
-After successful installation, press *q* to exit
-
 Enter `asciiquarium` to start the animation
 
 ```bash
@@ -38,7 +36,7 @@ asciiquarium
 ### 📦**Docker support**
 
 ```bash
-docker run -it --rm mikeliu123/asciiquarium asciiquarium
+docker run -it --rm mikeliu123/asciiquarium:v1 asciiquarium
 ```
 
 ### 📣**Update**
