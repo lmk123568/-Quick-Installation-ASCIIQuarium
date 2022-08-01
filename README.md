@@ -1,4 +1,4 @@
-<h1><center>⛵🐍🦈🐳🐟🐠🐡🦢🦆🏰</center><h1>
+<p align="center"><font size="20">⛵🐍🦈🐳🐟🐠🐡🦢🦆🏰</font></p>
 
 ## 🚀 Quick Installation ASCiiQuarium
 
@@ -12,7 +12,7 @@ Enjoy the mysteries of the sea from the safety of your own terminal 🥰
 
 Let this command be your screensaver !
 
-⚙**Usage**
+### ⚙**Usage**
 
 Clone this repo to local
 
@@ -27,15 +27,16 @@ $ cd Quick-Installation-ASCIIQuarium/
 $ bash install.sh
 ```
 
-📣**Update**
+### 📣**Update**
 
 - (2022-8-1) Compatible with most Ubuntu systems
 - Coming soon (Adaptation to CentOS) ......
 
-🔗**Refer**
+### 🔗**Refer**
 
 Thank them for their contribution 👍
 
 - https://robobunny.com/projects/asciiquarium/html/?page=0
 
 - https://metacpan.org/pod/Term::Animation
+
