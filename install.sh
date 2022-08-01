@@ -3,13 +3,11 @@ sudo apt-get -y install libcurses-perl
 sudo apt-get -y install make
 
 # Installing Term-Animation
-tar -xvf Term-Animation.tar
 cd Term-Animation/
-
-perl Makefile.PL
-make
-make test
-make install
+sudo perl Makefile.PL
+sudo make
+sudo make test
+sudo make install
 
 # Installing ASCIIQuarium
 sudo cp asciiquarium /usr/local/bin
